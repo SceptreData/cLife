@@ -1,8 +1,8 @@
 /*
  *  Conway's game of life, implemented in C
  *  Output rendered in BearlibTerminal.
- *  v0.1 David Bergeron
- *  sceptredata@gmail.com
+ *  v0.1 
+ *  
  */
 #define _WIN32_WINNT 0x0500
 #include <stdio.h>
